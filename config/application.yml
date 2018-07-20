@@ -1,0 +1,17 @@
+
+debug:
+  false
+  
+wallet:
+  userName: water
+  password: password
+  IP: localhost
+  port: 6968
+
+log4j:
+  rootLogger: INFO
+  logger:
+    org:
+      apache:
+        commons:
+          httpclient: INFO
